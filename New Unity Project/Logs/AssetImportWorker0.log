@@ -138,3 +138,36 @@ Received Import Request.
 Start importing Assets/materials/WallPurp.mat using Guid(ca6ab1abadf82934387dce6f165dbdcc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '220be896f5c0203c656260f69cfe523d') in 0.015280 seconds
   Import took 0.017845 seconds .
 
+========================================================================
+Received Import Request.
+  Time since last request: 1009.198672 seconds.
+  path: Assets/materials/New Material.mat
+  artifactKey: Guid(071dd42193e426f459e0812e4286f409) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/materials/New Material.mat using Guid(071dd42193e426f459e0812e4286f409) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f46bc434835525d61faae21b09928e61') in 0.012132 seconds
+  Import took 0.015309 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 23.674635 seconds.
+  path: Assets/materials/Herringbone_Brick_baseColor.png
+  artifactKey: Guid(5c7d96761b63ad549a9d910983578d3b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/materials/Herringbone_Brick_baseColor.png using Guid(5c7d96761b63ad549a9d910983578d3b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f34bcd3f5bfc9f86278eafcb9a6651b7') in 0.039914 seconds
+  Import took 0.042585 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 110.851983 seconds.
+  path: Assets/materials/Brick.mat
+  artifactKey: Guid(071dd42193e426f459e0812e4286f409) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/materials/Brick.mat using Guid(071dd42193e426f459e0812e4286f409) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9380556b91210e70e7ba0f2954812427') in 0.017712 seconds
+  Import took 0.020554 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 266.937152 seconds.
+  path: Assets/materials/New Physic Material.physicMaterial
+  artifactKey: Guid(03b3a718e37b6ff4490179244e98760f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/materials/New Physic Material.physicMaterial using Guid(03b3a718e37b6ff4490179244e98760f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f2f57c1fc76e9f1f03410c61586287f5') in 0.010960 seconds
+  Import took 0.014933 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
