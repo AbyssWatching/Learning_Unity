@@ -316,3 +316,817 @@ System memory in use after: 113.3 MB.
 Unloading 40 unused Assets to reduce memory usage. Loaded Objects now: 2920.
 Total: 4.540400 ms (FindLiveObjects: 0.326800 ms CreateObjectMapping: 0.085200 ms MarkObjects: 2.315900 ms  DeleteObjects: 1.809800 ms)
 
+========================================================================
+Received Import Request.
+  Time since last request: 70809.035520 seconds.
+  path: Assets/Unity - Foundations of Audio/Materials/Bubbles.mat
+  artifactKey: Guid(f5ec6bc9bd1c41149868cc7f19ee97fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unity - Foundations of Audio/Materials/Bubbles.mat using Guid(f5ec6bc9bd1c41149868cc7f19ee97fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a92e9c17ddd16e41239d18fe389d006d') in 0.431900 seconds
+  Import took 0.527040 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001953 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.50 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.209 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.47 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2348 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 116.1 MB.
+System memory in use after: 113.5 MB.
+
+Unloading 39 unused Assets to reduce memory usage. Loaded Objects now: 2970.
+Total: 6.080600 ms (FindLiveObjects: 0.379100 ms CreateObjectMapping: 0.116400 ms MarkObjects: 3.227200 ms  DeleteObjects: 2.354900 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002007 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.60 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.435 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.57 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2347 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 116.2 MB.
+System memory in use after: 113.5 MB.
+
+Unloading 39 unused Assets to reduce memory usage. Loaded Objects now: 2973.
+Total: 6.311100 ms (FindLiveObjects: 0.471300 ms CreateObjectMapping: 0.181000 ms MarkObjects: 3.307500 ms  DeleteObjects: 2.348200 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 5017.292263 seconds.
+  path: Assets/Unity - Foundations of Audio/Models/Kitchen/FBX/Wine_Glass_8in_KN001.fbx
+  artifactKey: Guid(a26254f7814651243b69fdb6dfa7c48c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unity - Foundations of Audio/Models/Kitchen/FBX/Wine_Glass_8in_KN001.fbx using Guid(a26254f7814651243b69fdb6dfa7c48c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd69e7a74ef711cb9d4977cfc6b057744') in 0.477375 seconds
+  Import took 0.570651 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002113 seconds.
+  path: Assets/Unity - Foundations of Audio/Models/Kitchen/FBX/Wine_Glass_8in_KN001.fbx
+  artifactKey: Guid(a26254f7814651243b69fdb6dfa7c48c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unity - Foundations of Audio/Models/Kitchen/FBX/Wine_Glass_8in_KN001.fbx using Guid(a26254f7814651243b69fdb6dfa7c48c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd69e7a74ef711cb9d4977cfc6b057744') in 0.024218 seconds
+  Import took 0.028558 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.426841 seconds.
+  path: Assets/Unity - Foundations of Audio/Models/Kitchen/FBX/Environment_25ftx16ft_KN001.fbx
+  artifactKey: Guid(274183700e5044543a184a6ba15ee153) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unity - Foundations of Audio/Models/Kitchen/FBX/Environment_25ftx16ft_KN001.fbx using Guid(274183700e5044543a184a6ba15ee153) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '087183358c9546893aa6f4153dcac0fa') in 0.110763 seconds
+  Import took 0.115680 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000440 seconds.
+  path: Assets/Unity - Foundations of Audio/Models/Kitchen/FBX/Wine_Bottle_12in_KN001.fbx
+  artifactKey: Guid(ea0268148571d7044935709b980b70b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unity - Foundations of Audio/Models/Kitchen/FBX/Wine_Bottle_12in_KN001.fbx using Guid(ea0268148571d7044935709b980b70b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9b4d2863f1652e98e72c1b73852ec273') in 0.023344 seconds
+  Import took 0.027423 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.850119 seconds.
+  path: Assets/Unity - Foundations of Audio/Models/Kitchen/FBX/Environment_17ftx16ft_KN001.fbx
+  artifactKey: Guid(8f31349f37701924e8ce7c017737bff5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unity - Foundations of Audio/Models/Kitchen/FBX/Environment_17ftx16ft_KN001.fbx using Guid(8f31349f37701924e8ce7c017737bff5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd748837ab12441268eda37ffc39263ba') in 0.081954 seconds
+  Import took 0.086943 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000441 seconds.
+  path: Assets/Unity - Foundations of Audio/Models/LivingRoom/FBX/VaseFlower_6.5in_LR001.fbx
+  artifactKey: Guid(dc286069d2058a44782e0f8a66850020) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unity - Foundations of Audio/Models/LivingRoom/FBX/VaseFlower_6.5in_LR001.fbx using Guid(dc286069d2058a44782e0f8a66850020) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0bc8bc4e114e201195ead7f5780e5e80') in 0.027697 seconds
+  Import took 0.032406 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000512 seconds.
+  path: Assets/ExampleAssets/Models/Workbench.fbx
+  artifactKey: Guid(efe9381559c516743bd05cef82f39ebb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ExampleAssets/Models/Workbench.fbx using Guid(efe9381559c516743bd05cef82f39ebb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9763579b58169ef327fd8d483de42484') in 0.252365 seconds
+  Import took 0.258784 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000649 seconds.
+  path: Assets/Unity - Foundations of Audio/Models/LivingRoom/FBX/Tray_12x16in_LR001.fbx
+  artifactKey: Guid(14c2c26358dbef94184bde965c500d1c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unity - Foundations of Audio/Models/LivingRoom/FBX/Tray_12x16in_LR001.fbx using Guid(14c2c26358dbef94184bde965c500d1c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5d86f963f5ca12167aebe431430acd7b') in 0.026533 seconds
+  Import took 0.032441 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000449 seconds.
+  path: Assets/Unity - Foundations of Audio/Models/Kitchen/FBX/CabinetUpper_39Wx12Dx36H_Corner_KN001a.fbx
+  artifactKey: Guid(b0a31aba0ee1cf94fa00fba1a879d09c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unity - Foundations of Audio/Models/Kitchen/FBX/CabinetUpper_39Wx12Dx36H_Corner_KN001a.fbx using Guid(b0a31aba0ee1cf94fa00fba1a879d09c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f10b7eca2150942643a7e513a066d09e') in 0.084067 seconds
+  Import took 0.088976 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000340 seconds.
+  path: Assets/Unity - Foundations of Audio/Models/Kitchen/FBX/Utensils_Container_Full_KN001.fbx
+  artifactKey: Guid(2229c6e311f03ef43bc57f44fa0bad65) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unity - Foundations of Audio/Models/Kitchen/FBX/Utensils_Container_Full_KN001.fbx using Guid(2229c6e311f03ef43bc57f44fa0bad65) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0602be12a8fecdcdd3594101229f9e82') in 0.096868 seconds
+  Import took 0.101192 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000458 seconds.
+  path: Assets/Unity - Foundations of Audio/Models/Kitchen/FBX/CabinetUpper_36Wx12Dx36H_Corner_KN001a.fbx
+  artifactKey: Guid(4f5e4891c09a5bb4db8c47b0345be007) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unity - Foundations of Audio/Models/Kitchen/FBX/CabinetUpper_36Wx12Dx36H_Corner_KN001a.fbx using Guid(4f5e4891c09a5bb4db8c47b0345be007) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0e78c4acb649ea152ee839be76eb51df') in 0.081223 seconds
+  Import took 0.086915 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000377 seconds.
+  path: Assets/Unity - Foundations of Audio/Models/Kitchen/FBX/CabinetUpper_36Wx12Dx36H_Corner_KN002a.fbx
+  artifactKey: Guid(6df1436e87916934b929afd3ac0f00ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unity - Foundations of Audio/Models/Kitchen/FBX/CabinetUpper_36Wx12Dx36H_Corner_KN002a.fbx using Guid(6df1436e87916934b929afd3ac0f00ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '555f5f2742cb103239fea061bb1e3bed') in 0.077681 seconds
+  Import took 0.082776 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000377 seconds.
+  path: Assets/Unity - Foundations of Audio/Models/Kitchen/FBX/CabinetUpper_15Wx12Dx36H_KN001a.fbx
+  artifactKey: Guid(58e3a91037aa2e14cb46db1daad4b746) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unity - Foundations of Audio/Models/Kitchen/FBX/CabinetUpper_15Wx12Dx36H_KN001a.fbx using Guid(58e3a91037aa2e14cb46db1daad4b746) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e551bd9f2aabc7b411430964811f6ab1') in 0.060847 seconds
+  Import took 0.065017 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000400 seconds.
+  path: Assets/ExampleAssets/Models/Workbench_Low.fbx
+  artifactKey: Guid(ff6dc36862fe41641bb21568d92147c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ExampleAssets/Models/Workbench_Low.fbx using Guid(ff6dc36862fe41641bb21568d92147c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5f99d08570cdde3afaf55ae1a8262d9b') in 0.118074 seconds
+  Import took 0.122265 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000335 seconds.
+  path: Assets/Unity - Foundations of Audio/Models/Kitchen/FBX/CabinetUpper_30Wx12Dx36H_KN001a.fbx
+  artifactKey: Guid(ad8a3fb746cb34947a406a976f318e14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unity - Foundations of Audio/Models/Kitchen/FBX/CabinetUpper_30Wx12Dx36H_KN001a.fbx using Guid(ad8a3fb746cb34947a406a976f318e14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '18c4e4efe703d25af867a223358c98c8') in 0.075352 seconds
+  Import took 0.079935 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.260896 seconds.
+  path: Assets/Unity - Foundations of Audio/Models/Kitchen/FBX/TeaKettle_10inch_KN001.fbx
+  artifactKey: Guid(6a316eb2d185d114fb3184929c313b2a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unity - Foundations of Audio/Models/Kitchen/FBX/TeaKettle_10inch_KN001.fbx using Guid(6a316eb2d185d114fb3184929c313b2a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '759cb22e950cb24d6adce34b2ecbb313') in 0.018066 seconds
+  Import took 0.022419 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000330 seconds.
+  path: Assets/Unity - Foundations of Audio/Models/Kitchen/FBX/Toaster_11in_KN001.fbx
+  artifactKey: Guid(bfd19cb4fa0a62445bdd5ea17f1af4a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unity - Foundations of Audio/Models/Kitchen/FBX/Toaster_11in_KN001.fbx using Guid(bfd19cb4fa0a62445bdd5ea17f1af4a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ef29913de685ca6bda2bdfa1ff90dbab') in 0.026190 seconds
+  Import took 0.030518 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000394 seconds.
+  path: Assets/Unity - Foundations of Audio/Models/LivingRoom/FBX/Table_48in_DR001.fbx
+  artifactKey: Guid(d288a7c230f2a6347aba539f26104c09) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unity - Foundations of Audio/Models/LivingRoom/FBX/Table_48in_DR001.fbx using Guid(d288a7c230f2a6347aba539f26104c09) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '72cbee7c32ff8be6d2187b00efcaccc5') in 0.021500 seconds
+  Import took 0.026635 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.227635 seconds.
+  path: Assets/ExampleAssets/Models/Stud.fbx
+  artifactKey: Guid(34624edaccd9d704a95ed404d919b492) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ExampleAssets/Models/Stud.fbx using Guid(34624edaccd9d704a95ed404d919b492) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fb17f227481600cbf7b05869a1581d00') in 0.040696 seconds
+  Import took 0.046319 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000431 seconds.
+  path: Assets/ExampleAssets/Models/Workshop_Set.fbx
+  artifactKey: Guid(47616bd0cda748d4cbedcfc908506b9d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ExampleAssets/Models/Workshop_Set.fbx using Guid(47616bd0cda748d4cbedcfc908506b9d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e07793a4d2b03e0e09167bfceb24a94b') in 0.112953 seconds
+  Import took 0.117415 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000338 seconds.
+  path: Assets/Unity - Foundations of Audio/Models/Kitchen/FBX/StockPot_9.5in_KN001.fbx
+  artifactKey: Guid(5942d15c10898574494466329b8eff0f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unity - Foundations of Audio/Models/Kitchen/FBX/StockPot_9.5in_KN001.fbx using Guid(5942d15c10898574494466329b8eff0f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2835d640659aabf6c404867ccac3e071') in 0.043665 seconds
+  Import took 0.048273 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.185508 seconds.
+  path: Assets/Unity - Foundations of Audio/Models/Kitchen/FBX/ShotGlass_KN001.fbx
+  artifactKey: Guid(977c24cc3ba72144287ab7a401399d34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unity - Foundations of Audio/Models/Kitchen/FBX/ShotGlass_KN001.fbx using Guid(977c24cc3ba72144287ab7a401399d34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b791d40277cd349b81781e2b405062d0') in 0.021915 seconds
+  Import took 0.027423 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000339 seconds.
+  path: Assets/Unity - Foundations of Audio/Models/Kitchen/FBX/SaucePan_8in_KN001.fbx
+  artifactKey: Guid(8faebebaae8f315418001766734e9ad0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unity - Foundations of Audio/Models/Kitchen/FBX/SaucePan_8in_KN001.fbx using Guid(8faebebaae8f315418001766734e9ad0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1c0073bee8adbec94dae20a6a7d3c3e0') in 0.044762 seconds
+  Import took 0.050012 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000358 seconds.
+  path: Assets/ExampleAssets/Models/safetygoggles_low.fbx
+  artifactKey: Guid(6296e48663fd7ad46b1a2af507f871cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ExampleAssets/Models/safetygoggles_low.fbx using Guid(6296e48663fd7ad46b1a2af507f871cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4ae8946a3f99a923f7803907a8c27ead') in 0.348501 seconds
+  Import took 0.356523 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000554 seconds.
+  path: Assets/ExampleAssets/Models/jigsaw_low.fbx
+  artifactKey: Guid(8b73e8872ca76104bbca4ee2b704a1b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ExampleAssets/Models/jigsaw_low.fbx using Guid(8b73e8872ca76104bbca4ee2b704a1b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '87b286f23ab1406b66ffa7fd117ec63a') in 0.045710 seconds
+  Import took 0.053558 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000672 seconds.
+  path: Assets/Unity - Foundations of Audio/Models/Kitchen/FBX/Range_Electric_36in_KN001.fbx
+  artifactKey: Guid(1d29a4a3adc1d4846a79c8e90da712ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unity - Foundations of Audio/Models/Kitchen/FBX/Range_Electric_36in_KN001.fbx using Guid(1d29a4a3adc1d4846a79c8e90da712ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5197eef62c69421f98ea3c2db5916fca') in 0.024987 seconds
+  Import took 0.031844 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000393 seconds.
+  path: Assets/Unity - Foundations of Audio/Models/Kitchen/FBX/Refrigerator_30Wx26.5Dx70H_KN001.fbx
+  artifactKey: Guid(12cd31adb7502c14fa14e94472f454f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unity - Foundations of Audio/Models/Kitchen/FBX/Refrigerator_30Wx26.5Dx70H_KN001.fbx using Guid(12cd31adb7502c14fa14e94472f454f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ed10b740ab067d3c6dd9bf1d7c18c549') in 0.025294 seconds
+  Import took 0.031055 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000358 seconds.
+  path: Assets/Unity - Foundations of Audio/Models/Kitchen/FBX/Range_Hood_36in_KN001.fbx
+  artifactKey: Guid(ac5f26f7c84e46c488ff016a6b419447) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unity - Foundations of Audio/Models/Kitchen/FBX/Range_Hood_36in_KN001.fbx using Guid(ac5f26f7c84e46c488ff016a6b419447) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd82be61cd567ea1a51dc53d132fd59b9') in 0.020001 seconds
+  Import took 0.024750 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000362 seconds.
+  path: Assets/ExampleAssets/Models/paintbucket_low.fbx
+  artifactKey: Guid(b451a052397f03c4f8a04d915d1c0492) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ExampleAssets/Models/paintbucket_low.fbx using Guid(b451a052397f03c4f8a04d915d1c0492) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3fb120b6ed1c9690f3c18633a9ae2dd0') in 0.071198 seconds
+  Import took 0.076246 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000335 seconds.
+  path: Assets/Unity - Foundations of Audio/Models/LivingRoom/FBX/PictureFrame_10x10in_LR001.fbx
+  artifactKey: Guid(5fdebefb64f6b4e4baef83e943f661c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unity - Foundations of Audio/Models/LivingRoom/FBX/PictureFrame_10x10in_LR001.fbx using Guid(5fdebefb64f6b4e4baef83e943f661c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e1c0c51871f5be68016d60a84f25cf55') in 0.025047 seconds
+  Import took 0.029972 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000363 seconds.
+  path: Assets/Unity - Foundations of Audio/Models/Kitchen/FBX/Refrigerator_30Wx26.5Dx70H_KN002.fbx
+  artifactKey: Guid(5d0f5a2ce8918094a80391d9c7eb5dd0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unity - Foundations of Audio/Models/Kitchen/FBX/Refrigerator_30Wx26.5Dx70H_KN002.fbx using Guid(5d0f5a2ce8918094a80391d9c7eb5dd0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '183ec8bf2171ca7f0a5fed632baa98be') in 0.022461 seconds
+  Import took 0.026768 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000484 seconds.
+  path: Assets/Unity - Foundations of Audio/Models/Kitchen/FBX/PaperTowel_Dispenser_14in_KN001.fbx
+  artifactKey: Guid(d288ddd8450603e4e86c92721048e29b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unity - Foundations of Audio/Models/Kitchen/FBX/PaperTowel_Dispenser_14in_KN001.fbx using Guid(d288ddd8450603e4e86c92721048e29b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fd8b22c195bf430c11ca46b021a6bb5f') in 0.020993 seconds
+  Import took 0.025586 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000417 seconds.
+  path: Assets/Unity - Foundations of Audio/Models/Kitchen/FBX/Refrigerator_36Wx26.5Dx70H_KN002.fbx
+  artifactKey: Guid(b616fff444a39ff43b0160b59de69823) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unity - Foundations of Audio/Models/Kitchen/FBX/Refrigerator_36Wx26.5Dx70H_KN002.fbx using Guid(b616fff444a39ff43b0160b59de69823) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3f60faf2ecf50ef78cf95a74b6c90ad9') in 0.020683 seconds
+  Import took 0.025809 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000412 seconds.
+  path: Assets/Unity - Foundations of Audio/Models/Kitchen/FBX/Refrigerator_36Wx26.5Dx70H_KN001.fbx
+  artifactKey: Guid(dab7c9b1e92a3c94aa6462943434522b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unity - Foundations of Audio/Models/Kitchen/FBX/Refrigerator_36Wx26.5Dx70H_KN001.fbx using Guid(dab7c9b1e92a3c94aa6462943434522b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c15aa892f3749eb5d12e7655daf586c3') in 0.018884 seconds
+  Import took 0.023560 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000351 seconds.
+  path: Assets/Unity - Foundations of Audio/Models/LivingRoom/FBX/Server_36in_DR002.fbx
+  artifactKey: Guid(a645a0a2be678e54083ac59db6d348f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unity - Foundations of Audio/Models/LivingRoom/FBX/Server_36in_DR002.fbx using Guid(a645a0a2be678e54083ac59db6d348f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0a70dd392505992f46f80a52b98db96a') in 0.017611 seconds
+  Import took 0.022096 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000387 seconds.
+  path: Assets/ExampleAssets/Models/safetyhat_low.fbx
+  artifactKey: Guid(9d0d902f71acfe646a46cb625f815a49) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ExampleAssets/Models/safetyhat_low.fbx using Guid(9d0d902f71acfe646a46cb625f815a49) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5935c6193b6a59e066fce2003b46692c') in 0.025115 seconds
+  Import took 0.029719 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000456 seconds.
+  path: Assets/ExampleAssets/Models/small_plane.fbx
+  artifactKey: Guid(aeaee610429f51f44981e141eb2a3545) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ExampleAssets/Models/small_plane.fbx using Guid(aeaee610429f51f44981e141eb2a3545) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f21ffefb080f2bc5460e0e031b036c2e') in 0.023440 seconds
+  Import took 0.027783 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000382 seconds.
+  path: Assets/Unity - Foundations of Audio/Models/Kitchen/FBX/Microwave_19.5in_KN001.fbx
+  artifactKey: Guid(c631403d0df4d5b45a25f22d12fb3287) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unity - Foundations of Audio/Models/Kitchen/FBX/Microwave_19.5in_KN001.fbx using Guid(c631403d0df4d5b45a25f22d12fb3287) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0b958d963cea1048bc04a50948b08245') in 0.019051 seconds
+  Import took 0.023595 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000483 seconds.
+  path: Assets/ExampleAssets/Models/ConstructionLight_Low.fbx
+  artifactKey: Guid(e3ae06a3979f53046aa05330d69de1fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ExampleAssets/Models/ConstructionLight_Low.fbx using Guid(e3ae06a3979f53046aa05330d69de1fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '89b2f32173df055a9d31b242b3d5989c') in 0.067377 seconds
+  Import took 0.072555 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000376 seconds.
+  path: Assets/ExampleAssets/Models/magneticlevel_low.fbx
+  artifactKey: Guid(bae110eee250e4b418b188f4ae4e3170) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ExampleAssets/Models/magneticlevel_low.fbx using Guid(bae110eee250e4b418b188f4ae4e3170) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b7daa638a4f61892d85b4e50fee1e849') in 0.048778 seconds
+  Import took 0.053254 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.005850 seconds.
+  path: Assets/ExampleAssets/Models/magneticlevel_low.fbx
+  artifactKey: Guid(bae110eee250e4b418b188f4ae4e3170) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ExampleAssets/Models/magneticlevel_low.fbx using Guid(bae110eee250e4b418b188f4ae4e3170) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b7daa638a4f61892d85b4e50fee1e849') in 0.047749 seconds
+  Import took 0.052546 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.125345 seconds.
+  path: Assets/Unity - Foundations of Audio/Models/Kitchen/FBX/Island_64.5Wx36Dx36H_KN001a.fbx
+  artifactKey: Guid(b306b78cfbe86184f9ad69b37249355d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unity - Foundations of Audio/Models/Kitchen/FBX/Island_64.5Wx36Dx36H_KN001a.fbx using Guid(b306b78cfbe86184f9ad69b37249355d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6e7c687cfca50dbd804994670aca1ee6') in 0.123458 seconds
+  Import took 0.129503 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000338 seconds.
+  path: Assets/Unity - Foundations of Audio/Models/Kitchen/FBX/CabinetLower_Backsplash_36Wx24Dx36H_KN001a.fbx
+  artifactKey: Guid(8dce995123e1eec4d81f3e074062d3be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unity - Foundations of Audio/Models/Kitchen/FBX/CabinetLower_Backsplash_36Wx24Dx36H_KN001a.fbx using Guid(8dce995123e1eec4d81f3e074062d3be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '82f889605d61dc36f37ac34079ea5679') in 0.083593 seconds
+  Import took 0.088085 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000338 seconds.
+  path: Assets/Unity - Foundations of Audio/Models/Kitchen/FBX/CabinetLower_Backsplash_15Wx24Dx36H_KN002a.fbx
+  artifactKey: Guid(fc992be46aea61b419fa14e22ecba343) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unity - Foundations of Audio/Models/Kitchen/FBX/CabinetLower_Backsplash_15Wx24Dx36H_KN002a.fbx using Guid(fc992be46aea61b419fa14e22ecba343) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '84d7547eb2d24788ae69549a8650a197') in 0.080005 seconds
+  Import took 0.084277 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000341 seconds.
+  path: Assets/Unity - Foundations of Audio/Models/Kitchen/FBX/CabinetLower_Backsplash_36Wx24Dx36H_KN002a.fbx
+  artifactKey: Guid(5028e424da31ff5488a724933701255b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unity - Foundations of Audio/Models/Kitchen/FBX/CabinetLower_Backsplash_36Wx24Dx36H_KN002a.fbx using Guid(5028e424da31ff5488a724933701255b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b9062dbbb4f67c3b72644ea13b7bbaca') in 0.089872 seconds
+  Import took 0.094142 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.057249 seconds.
+  path: Assets/Unity - Foundations of Audio/Models/Kitchen/FBX/CabinetLower_Backsplash_30Wx24Dx36H_KN001a.fbx
+  artifactKey: Guid(ce7f2e955080e344888dc16146705f75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unity - Foundations of Audio/Models/Kitchen/FBX/CabinetLower_Backsplash_30Wx24Dx36H_KN001a.fbx using Guid(ce7f2e955080e344888dc16146705f75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bd97332558ea4a1d030e91c6e9ab67ff') in 0.074782 seconds
+  Import took 0.080690 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000326 seconds.
+  path: Assets/Unity - Foundations of Audio/Models/Kitchen/FBX/CabinetLower_Backsplash_30Wx24Dx36H_KN002a.fbx
+  artifactKey: Guid(2012b71c22f1262429a544038f981eb2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unity - Foundations of Audio/Models/Kitchen/FBX/CabinetLower_Backsplash_30Wx24Dx36H_KN002a.fbx using Guid(2012b71c22f1262429a544038f981eb2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8dbbd535f96a8022c323da4d6e9fb684') in 0.079444 seconds
+  Import took 0.083987 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 746.345991 seconds.
+  path: Packages/com.unity.ext.nunit
+  artifactKey: Guid(25a477c2f24db8778a4179421a32cc21) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.ext.nunit using Guid(25a477c2f24db8778a4179421a32cc21) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'de8b3f671dc9f0a57b867a67d4aae8de') in 0.003382 seconds
+  Import took 0.009010 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.581214 seconds.
+  path: Packages/com.unity.ext.nunit/package.json
+  artifactKey: Guid(8143d3a8390f2c64685e3bc272bd9e90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.ext.nunit/package.json using Guid(8143d3a8390f2c64685e3bc272bd9e90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c0d9a8659c428b78016c58edab6d782d') in 0.009253 seconds
+  Import took 0.013489 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 23.573227 seconds.
+  path: Packages/com.unity.mathematics/Tests/Tests/Shared/TestBitmanipulation.cs
+  artifactKey: Guid(e5e8e2bd97f047f4aa27c8449c8844a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.mathematics/Tests/Tests/Shared/TestBitmanipulation.cs using Guid(e5e8e2bd97f047f4aa27c8449c8844a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '78b2448eebd0f28b3827397400c059b4') in 0.005345 seconds
+  Import took 0.010216 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001386 seconds.
+  path: Packages/com.unity.mathematics/Tests/Tests/Shared/TestBitmanipulation.cs
+  artifactKey: Guid(e5e8e2bd97f047f4aa27c8449c8844a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.mathematics/Tests/Tests/Shared/TestBitmanipulation.cs using Guid(e5e8e2bd97f047f4aa27c8449c8844a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '78b2448eebd0f28b3827397400c059b4') in 0.003175 seconds
+  Import took 0.007778 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 80.547894 seconds.
+  path: Packages/com.unity.render-pipelines.core/Editor/Unity.RenderPipelines.Core.Editor.asmdef
+  artifactKey: Guid(3eae0364be2026648bf74846acb8a731) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.render-pipelines.core/Editor/Unity.RenderPipelines.Core.Editor.asmdef using Guid(3eae0364be2026648bf74846acb8a731) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '757cc29fb3f3e830e1e56694f7e446e1') in 0.005685 seconds
+  Import took 0.010408 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 45.182374 seconds.
+  path: Assets/Free Pack/Autocannon - Shot 1.wav
+  artifactKey: Guid(bb2e2714f962491428dcb0b38598b251) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Free Pack/Autocannon - Shot 1.wav using Guid(bb2e2714f962491428dcb0b38598b251) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6d0d442d90caa22be2d88cf46e749065') in 0.025328 seconds
+  Import took 0.030086 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000382 seconds.
+  path: Assets/Free Pack/Computer explosion 6 - Alarm.wav
+  artifactKey: Guid(65b3207f91d67094e87be85dbe54c89d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Free Pack/Computer explosion 6 - Alarm.wav using Guid(65b3207f91d67094e87be85dbe54c89d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0fbe4bdc9406962874ab9e0e901f180a') in 0.012029 seconds
+  Import took 0.018241 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000429 seconds.
+  path: Assets/Free Pack/Laser Gun Salve.wav
+  artifactKey: Guid(e88084c6f293c324db2b4dcf575d60dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Free Pack/Laser Gun Salve.wav using Guid(e88084c6f293c324db2b4dcf575d60dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0aa2665915236c6f0767ffd8276ce419') in 0.012000 seconds
+  Import took 0.016953 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000405 seconds.
+  path: Assets/Free Pack/Explosion 8.wav
+  artifactKey: Guid(d47e6ed162da1f740ad807d00f4679f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Free Pack/Explosion 8.wav using Guid(d47e6ed162da1f740ad807d00f4679f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9d1dce53f8dc91bba5d7b3bd6198a092') in 0.010961 seconds
+  Import took 0.015859 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000345 seconds.
+  path: Assets/Free Pack/Magic Spell - Sleeping spell 1.wav
+  artifactKey: Guid(adcac75087a17704ca6c0c3b15bc3aa5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Free Pack/Magic Spell - Sleeping spell 1.wav using Guid(adcac75087a17704ca6c0c3b15bc3aa5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'afe9cc2113e45fe601bea59a4a45ae5d') in 0.012240 seconds
+  Import took 0.017195 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000407 seconds.
+  path: Assets/Free Pack/Machine Gun 1.wav
+  artifactKey: Guid(d40330822ccea6140b664c0560d5022f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Free Pack/Machine Gun 1.wav using Guid(d40330822ccea6140b664c0560d5022f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '58129265197c7ebf045a1a6771e0d94a') in 0.011828 seconds
+  Import took 0.016978 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000390 seconds.
+  path: Assets/Free Pack/Dragon Spit Fire 1.wav
+  artifactKey: Guid(7d156b8a5b340cd46bcf0a76557dd2dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Free Pack/Dragon Spit Fire 1.wav using Guid(7d156b8a5b340cd46bcf0a76557dd2dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b6e788c0ccb7266017e5110f494e7951') in 0.011046 seconds
+  Import took 0.016385 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000370 seconds.
+  path: Assets/Free Pack/Hand Gun 1.wav
+  artifactKey: Guid(6739c01659ad96d47987f4ddee226b36) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Free Pack/Hand Gun 1.wav using Guid(6739c01659ad96d47987f4ddee226b36) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fb5aa5dbab9a49f9c84d85e768001e2f') in 0.012311 seconds
+  Import took 0.016644 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000398 seconds.
+  path: Assets/Free Pack/Earthquake 3 - Big.wav
+  artifactKey: Guid(5ae4d298ed547ba4c88587effb75d7e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Free Pack/Earthquake 3 - Big.wav using Guid(5ae4d298ed547ba4c88587effb75d7e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4a428fe56594aaade9ef4cb215d9dd3a') in 0.012190 seconds
+  Import took 0.017082 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000391 seconds.
+  path: Assets/Free Pack/Chemistry reaction 3 - Big.wav
+  artifactKey: Guid(4144ed0d6abcc42479fe873c54bbe0fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Free Pack/Chemistry reaction 3 - Big.wav using Guid(4144ed0d6abcc42479fe873c54bbe0fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '196a17af62ba19331c63b2c7ca877aa6') in 0.010810 seconds
+  Import took 0.015996 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000376 seconds.
+  path: Assets/Free Pack/Hand Gun 2.wav
+  artifactKey: Guid(34b439bf70b80a6409eadecc6be92d68) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Free Pack/Hand Gun 2.wav using Guid(34b439bf70b80a6409eadecc6be92d68) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '35ff6af51632856b53447a2e11edc5a9') in 0.010904 seconds
+  Import took 0.016949 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000360 seconds.
+  path: Assets/Free Pack/Ghost Manifestation 2.wav
+  artifactKey: Guid(618be86712ffac947997f96463301683) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Free Pack/Ghost Manifestation 2.wav using Guid(618be86712ffac947997f96463301683) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '301fc69432c5252d6e196eec9699b776') in 0.015719 seconds
+  Import took 0.020418 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000427 seconds.
+  path: Assets/Free Pack/Magic Spell - Turn to stone.wav
+  artifactKey: Guid(5fe4bc0609c03e24097e0cb3666a4fb5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Free Pack/Magic Spell - Turn to stone.wav using Guid(5fe4bc0609c03e24097e0cb3666a4fb5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2611b4ea30c15ee4cbf3ccafffb21d95') in 0.013221 seconds
+  Import took 0.017775 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000445 seconds.
+  path: Assets/Free Pack/Laser Multiple shots 1.wav
+  artifactKey: Guid(c9bb4171cafd3dd47829336ea4c8d988) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Free Pack/Laser Multiple shots 1.wav using Guid(c9bb4171cafd3dd47829336ea4c8d988) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2cf7d5f29c07014b8b17f904f9655bea') in 0.013709 seconds
+  Import took 0.019512 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000452 seconds.
+  path: Assets/Free Pack/Cannon impact 9.wav
+  artifactKey: Guid(5ff823f546b52574a931e1d9b44290a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Free Pack/Cannon impact 9.wav using Guid(5ff823f546b52574a931e1d9b44290a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd6ec551e4ed40fbe4997a4a8b860ccac') in 0.013974 seconds
+  Import took 0.020900 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000469 seconds.
+  path: Assets/Free Pack/Heavy Object Impact 4.wav
+  artifactKey: Guid(9930d5b4be15bb04c9d0a6fa0d7e6b2e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Free Pack/Heavy Object Impact 4.wav using Guid(9930d5b4be15bb04c9d0a6fa0d7e6b2e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e3c1ee0a86528facceab6c90d07c44bb') in 0.013148 seconds
+  Import took 0.018150 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000402 seconds.
+  path: Assets/Free Pack/Laser Impact Light_6.wav
+  artifactKey: Guid(bb6cdd13aeb95f743847b1cd460889bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Free Pack/Laser Impact Light_6.wav using Guid(bb6cdd13aeb95f743847b1cd460889bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f48d3c09178d50dbb99c2c5a6a86fa6d') in 0.014996 seconds
+  Import took 0.019913 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000334 seconds.
+  path: Assets/Free Pack/Explosion 2.wav
+  artifactKey: Guid(986d6b30567e30e428f3f21373fe45ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Free Pack/Explosion 2.wav using Guid(986d6b30567e30e428f3f21373fe45ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3c33bbca8844ebb1a108d9aafb7072b4') in 0.012065 seconds
+  Import took 0.017153 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000452 seconds.
+  path: Assets/Free Pack/Hand Gun 3.wav
+  artifactKey: Guid(a764377339b869e459f5e53fb9258f73) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Free Pack/Hand Gun 3.wav using Guid(a764377339b869e459f5e53fb9258f73) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ba8e3d88fe47fbf3216e9f19d44d7d55') in 0.013778 seconds
+  Import took 0.018599 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000320 seconds.
+  path: Assets/Free Pack/Explosion 1.wav
+  artifactKey: Guid(1fd31868d68903d4f9e2c4a3b7ef98f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Free Pack/Explosion 1.wav using Guid(1fd31868d68903d4f9e2c4a3b7ef98f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '43b10fce44386bfa2a1c947474fc833c') in 0.012987 seconds
+  Import took 0.018748 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000432 seconds.
+  path: Assets/Free Pack/Hand Gun_6.wav
+  artifactKey: Guid(6dd7024f00606b44eb5884197a66a893) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Free Pack/Hand Gun_6.wav using Guid(6dd7024f00606b44eb5884197a66a893) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '48c6ca5b1988a22701984bb43860ca73') in 0.010929 seconds
+  Import took 0.016025 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000473 seconds.
+  path: Assets/Free Pack/Ice Cavern-Loop.wav
+  artifactKey: Guid(517dbd5357d36724c9ff71219172b9f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Free Pack/Ice Cavern-Loop.wav using Guid(517dbd5357d36724c9ff71219172b9f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7155dd79e7827c31bd42439891c404a6') in 0.013906 seconds
+  Import took 0.019050 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000359 seconds.
+  path: Assets/Free Pack/Heavy Object Impact 10.wav
+  artifactKey: Guid(7b69beceabbd8f24e8bc62d77ac7ca1c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Free Pack/Heavy Object Impact 10.wav using Guid(7b69beceabbd8f24e8bc62d77ac7ca1c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '17b10f2eae31ebe12925b1d4d0d8460a') in 0.014335 seconds
+  Import took 0.019604 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000364 seconds.
+  path: Assets/Free Pack/Ghost Manifestation 1.wav
+  artifactKey: Guid(26fbf6bb6963666478f6992bc53b9145) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Free Pack/Ghost Manifestation 1.wav using Guid(26fbf6bb6963666478f6992bc53b9145) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6f4f92ce6fcd51563b19f9e99f4d422f') in 0.012344 seconds
+  Import took 0.017073 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000413 seconds.
+  path: Assets/Free Pack/Carriage on Stone Road - Loop.wav
+  artifactKey: Guid(1b46c101cacd70a4fa09545bf0d68820) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Free Pack/Carriage on Stone Road - Loop.wav using Guid(1b46c101cacd70a4fa09545bf0d68820) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '86c0ffbe0da4b4f65b669f29a35b3f34') in 0.011694 seconds
+  Import took 0.016587 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 20.188608 seconds.
+  path: Assets/Free Pack/Magic Spell_Coins_2.wav
+  artifactKey: Guid(34f9cbd28a9740349b6cc2f5e280dda3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Free Pack/Magic Spell_Coins_2.wav using Guid(34f9cbd28a9740349b6cc2f5e280dda3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9a5042092a3d3350ac755c8226bf49a4') in 0.011074 seconds
+  Import took 0.018198 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000378 seconds.
+  path: Assets/Free Pack/Magic Spell_Short Reverse_1.wav
+  artifactKey: Guid(7f4aa26d5b55226409cda231ffaf869b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Free Pack/Magic Spell_Short Reverse_1.wav using Guid(7f4aa26d5b55226409cda231ffaf869b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd5a55654d60e26c0980dc7e46a07107f') in 0.015250 seconds
+  Import took 0.020856 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000417 seconds.
+  path: Assets/Free Pack/Magic Spell_Simple Swoosh_6.wav
+  artifactKey: Guid(cc6699269b4c1d44ea1e860518b9bb73) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Free Pack/Magic Spell_Simple Swoosh_6.wav using Guid(cc6699269b4c1d44ea1e860518b9bb73) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ff34cab9e798489251cfdae4892fc566') in 0.012393 seconds
+  Import took 0.017651 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000433 seconds.
+  path: Assets/Free Pack/Magic Spell_Electricity Spell_1.wav
+  artifactKey: Guid(eec3bf121b316d64ca1c8aac7573a2f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Free Pack/Magic Spell_Electricity Spell_1.wav using Guid(eec3bf121b316d64ca1c8aac7573a2f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1497a7a2ff033fc100714b987dcb2797') in 0.010580 seconds
+  Import took 0.014905 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000443 seconds.
+  path: Assets/Free Pack/Medieval City.wav
+  artifactKey: Guid(c53d52b6903e77342963b7b627f126fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Free Pack/Medieval City.wav using Guid(c53d52b6903e77342963b7b627f126fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e87121bd82e01a2a53ffc2cf1430ed7b') in 0.012424 seconds
+  Import took 0.016951 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000417 seconds.
+  path: Assets/Free Pack/Railgun - Shot 6.wav
+  artifactKey: Guid(f9eb44b85c96be5429737d4dcadbfa3b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Free Pack/Railgun - Shot 6.wav using Guid(f9eb44b85c96be5429737d4dcadbfa3b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b30d946c8f6bf7e8e24ffa048d6e9d42') in 0.011836 seconds
+  Import took 0.016989 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 134.977497 seconds.
+  path: Assets/Scripts/System
+  artifactKey: Guid(1549a5273e1411b4d954be767917b3e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/System using Guid(1549a5273e1411b4d954be767917b3e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3a669189cd12e213cec29f779efc1b30') in 0.003207 seconds
+  Import took 0.010063 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.138082 seconds.
+  path: Assets/Scripts
+  artifactKey: Guid(02a3527b6b33a924e8ec66aa805ea717) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts using Guid(02a3527b6b33a924e8ec66aa805ea717) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f0a913a0049096cde5d6a727232f232f') in 0.004009 seconds
+  Import took 0.008323 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 18.230593 seconds.
+  path: Assets/Scripts/System/CapMovement.cs
+  artifactKey: Guid(4736a9e89651a6d49af43a8fc1dc26af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/System/CapMovement.cs using Guid(4736a9e89651a6d49af43a8fc1dc26af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c0eb68c6ea608ba6aabda673d9ec5f77') in 0.003493 seconds
+  Import took 0.008221 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002757 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.50 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.803 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.92 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2348 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 117.2 MB.
+System memory in use after: 114.5 MB.
+
+Unloading 39 unused Assets to reduce memory usage. Loaded Objects now: 3018.
+Total: 6.865900 ms (FindLiveObjects: 0.516000 ms CreateObjectMapping: 0.187700 ms MarkObjects: 3.820900 ms  DeleteObjects: 2.338400 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002185 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.59 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.179 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.48 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2348 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 117.2 MB.
+System memory in use after: 114.5 MB.
+
+Unloading 39 unused Assets to reduce memory usage. Loaded Objects now: 3021.
+Total: 4.854600 ms (FindLiveObjects: 0.396100 ms CreateObjectMapping: 0.107600 ms MarkObjects: 2.450800 ms  DeleteObjects: 1.897400 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 226.886059 seconds.
+  path: Assets/Scripts/System/CapMovement.cs
+  artifactKey: Guid(4736a9e89651a6d49af43a8fc1dc26af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/System/CapMovement.cs using Guid(4736a9e89651a6d49af43a8fc1dc26af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd9733ab6ba21f7537ae3abf8f782b7c2') in 0.006629 seconds
+  Import took 0.010872 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002618 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.54 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.279 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.48 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2348 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 117.2 MB.
+System memory in use after: 114.6 MB.
+
+Unloading 39 unused Assets to reduce memory usage. Loaded Objects now: 3024.
+Total: 5.047300 ms (FindLiveObjects: 0.419600 ms CreateObjectMapping: 0.101900 ms MarkObjects: 2.620300 ms  DeleteObjects: 1.903000 ms)
+
