@@ -7,7 +7,7 @@ public class PlayerMovement : MonoBehaviour
     //the speed at which the vehilce is moving well a portion of that
     private float speed = 15.0F;
     //a part of the function for speed at which it will turn
-    private float turnSpeed;
+    private float turnSpeed = 25.0f;
     // Start is called before the first frame update
 
     private float horizontalInput;
