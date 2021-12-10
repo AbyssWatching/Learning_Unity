@@ -4,13 +4,15 @@ using UnityEngine;
 
 public class PlayerMovement : MonoBehaviour
 {
-    //the speed at which the vehilce is moving
-    public float speed = 15.0F;
-    //the speed at which it will turn
-    public float turnSpeed;
+    //the speed at which the vehilce is moving well a portion of that
+    private float speed = 15.0F;
+    //a part of the function for speed at which it will turn
+    private float turnSpeed;
     // Start is called before the first frame update
 
-    public float horizontalInput;
+    private float horizontalInput;
+
+    private float verticleInput;
     void Start()
     {
         
@@ -19,10 +21,15 @@ public class PlayerMovement : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+        //checks for a key input from specific things but to go forward or back
         horizontalInput = Input.GetAxis("Horizontal");
+        //also checks for key input but to turn the vehicle
+        verticleInput = Input.GetAxis("Vertical");
 
-        transform.Translate(Vector3.forward * Time.deltaTime * speed);
+        transform.Translate(Vector3.forward * Time.deltaTime * speed * verticleInput);
 
-        transform.Translate(Vector3.right * Time.deltaTime * turnSpeed * horizontalInput);
+        transform.Rotate(Vector3.up * Time.deltaTime * turnSpeed * horizontalInput);
+
+
     }
 }
