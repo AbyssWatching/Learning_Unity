@@ -10,6 +10,8 @@ public class PlayerControler : MonoBehaviour
 
     public float xbound = 10;
 
+    public GameObject projectile;
+
     // Start is called before the first frame update
     void Start()
     {
@@ -32,5 +34,11 @@ public class PlayerControler : MonoBehaviour
         HorInput = Input.GetAxis("Horizontal");
 
         transform.Translate(Vector3.right * Time.deltaTime * speed * HorInput);
+
+		if (Input.GetKeyDown(KeyCode.Space))
+		{
+            //fire weapon if true
+            Instantiate(projectile,transform.position,projectile.transform.rotation);
+		}
     }
 }
